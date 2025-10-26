@@ -15,7 +15,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 st.set_page_config(page_title="🎓 SNIST College Chatbot", layout="wide")
 
-st.title("🎓 SNIST Context-Aware AI Chatbot")
+st.title("🎓 SNIST AI Chatbot")
 st.markdown("Ask about courses, timings, events, or follow-up questions!")
 
 # ------------------------------
