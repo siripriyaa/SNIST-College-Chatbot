@@ -1,0 +1,5 @@
+streamlit
+pandas
+nltk
+sentence-transformers
+PyPDF2
